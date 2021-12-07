@@ -1,4 +1,5 @@
 - Sipuli
 - Valkosipuli
 - Jauhelihaa
-- 
+- Tomaattikastike
+- Juusto
